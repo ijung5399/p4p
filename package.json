@@ -1,0 +1,26 @@
+{
+  "name": "p4p",
+  "version": "1.0.0",
+  "description": "project for project",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^10.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijung5399/p4p.git"
+  },
+  "keywords": [
+    "pm"
+  ],
+  "author": "Il Mo Jung",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ijung5399/p4p/issues"
+  },
+  "homepage": "https://github.com/ijung5399/p4p#readme"
+}
